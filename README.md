@@ -14,4 +14,4 @@ Performance of add operation:
 ![image](test_fig/test.png)
 
 Performance of snake game:
-![gif]()
+![gif](videos/snake_predictions.gif)
