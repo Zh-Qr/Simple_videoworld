@@ -11,7 +11,7 @@ This task includes 2 simple goal:
 The result is showed below:
 
 Performance of add operation:
-![image]{}
+![image](test_fig/test.png)
 
 Performance of snake game:
-![gif]{}
+![gif]()
